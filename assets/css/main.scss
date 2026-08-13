@@ -194,6 +194,33 @@
     }
 }
 
+.education-entry {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 1rem;
+    align-items: start;
+
+    &__logo {
+        display: block;
+        align-self: center;
+        width: 64px;
+        height: 64px;
+        object-fit: contain;
+    }
+
+    &__content {
+        min-width: 0;
+
+        h3 {
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            margin-top: 0;
+        }
+    }
+}
+
 .publication-links {
     display: flex;
     flex-wrap: wrap;
@@ -245,6 +272,16 @@ button:focus-visible {
 }
 
 @include breakpoint(max-width $medium) {
+    .education-entry {
+        grid-template-columns: 52px minmax(0, 1fr);
+        gap: 0.8rem;
+
+        &__logo {
+            width: 52px;
+            height: 52px;
+        }
+    }
+
     .paper-box {
         .paper-box-image,
         .paper-box-text {

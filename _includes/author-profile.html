@@ -6,7 +6,7 @@
 
 <div itemscope itemtype="https://schema.org/Person" class="profile_box">
   <div class="author__avatar">
-    <img src="{{ author.avatar | relative_url }}" alt="Full-body portrait of {{ author.name }}" width="2255" height="3479">
+    <img src="{{ author.avatar | relative_url }}" alt="Full-body portrait of {{ author.name }}" width="720" height="1111">
   </div>
 
   <div class="author__content">
@@ -22,6 +22,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer" itemprop="sameAs"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCID</a></li>
+      {% endif %}
     </ul>
     <div class="author__urls_sm" aria-label="Contact links">
       {% if author.email %}
@@ -29,6 +32,9 @@
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.orcid %}
+        <a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer" aria-label="ORCID"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>

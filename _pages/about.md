@@ -101,12 +101,18 @@ I led the team through literature study, method design, model reproduction, syst
 <section class="homepage-section" aria-labelledby="education">
 <h1 id="education"><i class="fas fa-graduation-cap section-heading-icon" aria-hidden="true"></i><span>Education</span></h1>
 
-<div class="language-block" lang="en" markdown="1">
-### Xidian University
-**B.Sc. Student, Radio Wave Propagation and Antennas Honors Program | 2023 - Expected July 2027**
-
-- GPA: **3.84/4.00**
-- Rank: **2/33** over the first five semesters
+<div class="language-block" lang="en">
+  <div class="education-entry">
+    <img class="education-entry__logo" src="{{ '/images/xidian-university-emblem.png' | relative_url }}" alt="" width="256" height="256">
+    <div class="education-entry__content">
+      <h3>Xidian University</h3>
+      <p><strong>B.Sc. Student, Radio Wave Propagation and Antennas Honors Program | 2023 - Expected July 2027</strong></p>
+      <ul>
+        <li>GPA: <strong>3.84/4.00</strong></li>
+        <li>Rank: <strong>2/33</strong> over the first five semesters</li>
+      </ul>
+    </div>
+  </div>
 </div>
 </section>
 
@@ -116,7 +122,7 @@ I led the team through literature study, method design, model reproduction, syst
 <div class="language-block" lang="en" markdown="1">
 - **2026** Mathematical Contest in Modeling (MCM), Honorable Mention
 - **2024** Interdisciplinary Contest in Modeling (ICM), Honorable Mention
-- **2024** National Scholarship for Undergraduate Students
+- **2024** National Scholarship for Undergraduate Students (Top 1%)
 - **2024** Outstanding Student Model, Xidian University
 </div>
 </section>
