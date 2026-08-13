@@ -191,7 +191,10 @@
 
   button {
     position: absolute;
-    height: 100%;
+    top: 50%;
+    width: 44px;
+    height: 44px;
+    min-height: 44px;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
@@ -199,6 +202,12 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+
+    .navicon {
+      display: block;
+    }
   }
 
   .visible-links {
