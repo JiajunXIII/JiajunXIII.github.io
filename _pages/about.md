@@ -14,13 +14,13 @@ redirect_from:
 <h1 id="about"><i class="fas fa-user-circle section-heading-icon" aria-hidden="true"></i><span>About / 个人简介</span></h1>
 
 <div class="language-block" lang="en" markdown="1">
-I am a 2023-cohort undergraduate in the Radio Wave Propagation and Antennas Honors Program at the School of Physics, Xidian University, and expect to graduate in July 2027. My research lies at the intersection of multimedia signal processing and artificial intelligence, with a focus on multimodal generation and understanding, deepfake speech detection, model generalization, and interpretability.
+I am a 2023-cohort undergraduate in the Radio Wave Propagation and Antennas Honors Program at the School of Physics, <a href="https://www.xidian.edu.cn/" target="_blank" rel="noopener noreferrer">Xidian University</a>, and expect to graduate in July 2027. My research lies at the intersection of multimedia signal processing and artificial intelligence, with a focus on multimodal generation and understanding, deepfake speech detection, model generalization, and interpretability.
 
-I have been admitted to the direct-entry Ph.D. program in the Department of Engineering Physics at Tsinghua University and will be advised by <a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">Prof. Junjie Zhang</a>. My previous research experience includes studying the generalization of deepfake speech detectors across speech-generation paradigms in <a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">Academician Xiaoping Zhang's group</a>, leading the VMM research on video-to-music generation as first author, and contributing to HumanMAC++ on diffusion-based human motion prediction.
+I have been admitted to the Ph.D. program in the Department of Engineering Physics at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">Tsinghua University</a> and will be advised by <a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">Prof. Junjie Zhang</a>. My previous research experience includes studying the generalization of deepfake speech detectors across speech-generation paradigms in <a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">Academician Xiaoping Zhang's group</a>, leading the VMM research on video-to-music generation as first author, and contributing to HumanMAC++ on diffusion-based human motion prediction.
 </div>
 
 <div class="language-block language-block--zh" lang="zh-CN" markdown="1">
-许嘉俊，西安电子科技大学物理学院电波传播与天线实验班 2023 级本科生，主要研究多模态生成与理解、深伪语音检测，以及模型泛化与可解释性。已保送至清华大学工程物理系攻读博士，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">张俊杰老师</a>。此前在清华大学<a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">张晓平院士课题组</a>开展深伪语音检测研究，关注检测模型在不同语音生成范式下的泛化能力；以第一作者身份主导 VMM 视频到音乐生成研究，并参与基于扩散模型的人体运动预测项目 HumanMAC++。
+许嘉俊，<a href="https://www.xidian.edu.cn/" target="_blank" rel="noopener noreferrer">西安电子科技大学</a>物理学院电波传播与天线实验班 2023 级本科生，主要研究多模态生成与理解、深伪语音检测，以及模型泛化与可解释性。已保送至<a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">清华大学</a>工程物理系攻读博士，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">张俊杰老师</a>。此前在清华大学<a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">张晓平院士课题组</a>开展深伪语音检测研究，关注检测模型在不同语音生成范式下的泛化能力；以第一作者身份主导 VMM 视频到音乐生成研究，并参与基于扩散模型的人体运动预测项目 HumanMAC++。
 </div>
 </section>
 
@@ -108,7 +108,7 @@ I led the team through literature study, method design, model reproduction, syst
     <img class="education-entry__logo" src="{{ '/images/tsinghua-university-emblem.png' | relative_url }}" alt="" width="512" height="517">
     <div class="education-entry__content">
       <h3 class="education-entry__school education-entry__school--tsinghua">Tsinghua University</h3>
-      <p><strong>Incoming Direct Ph.D. Student, Department of Engineering Physics | Expected Enrollment: 2027</strong></p>
+      <p><strong>Incoming Ph.D. Student, Department of Engineering Physics | Expected Enrollment: 2027</strong></p>
     </div>
   </div>
   <div class="education-entry">
