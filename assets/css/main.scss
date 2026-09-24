@@ -219,6 +219,19 @@
             margin-top: 0;
         }
     }
+
+}
+
+.education-entry__content .education-entry__school--tsinghua {
+    color: #7c2e9a;
+}
+
+.education-entry__content .education-entry__school--xidian {
+    color: #004182;
+}
+
+.education-entry + .education-entry {
+    margin-top: 1.5rem;
 }
 
 .publication-links {

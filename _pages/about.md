@@ -16,11 +16,11 @@ redirect_from:
 <div class="language-block" lang="en" markdown="1">
 I am a 2023-cohort undergraduate in the Radio Wave Propagation and Antennas Honors Program at the School of Physics, Xidian University, and expect to graduate in July 2027. My research lies at the intersection of multimedia signal processing and artificial intelligence, with a focus on multimodal generation and understanding, deepfake speech detection, model generalization, and interpretability.
 
-I am currently a research intern in Xiaoping Zhang's group at Tsinghua University, studying how deepfake speech detectors generalize across speech-generation paradigms. Previously, I led the VMM research on video-to-music generation as first author, contributed to the HumanMAC++ project on diffusion-based human motion prediction, and led a national undergraduate innovation project on diffusion-model-based mural restoration.
+I have been admitted to the direct-entry Ph.D. program in the Department of Engineering Physics at Tsinghua University and will be advised by <a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">Prof. Junjie Zhang</a>. My previous research experience includes studying the generalization of deepfake speech detectors across speech-generation paradigms in <a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">Academician Xiaoping Zhang's group</a>, leading the VMM research on video-to-music generation as first author, and contributing to HumanMAC++ on diffusion-based human motion prediction.
 </div>
 
 <div class="language-block language-block--zh" lang="zh-CN" markdown="1">
-许嘉俊，西安电子科技大学物理学院电波传播与天线实验班 2023 级本科生。主要研究多模态生成与理解、深伪语音检测及模型泛化与可解释性，现于清华大学张晓平院士课题组开展科研实习；以第一作者在 CVIU 发表视频到音乐生成研究，并参与 HumanMAC++ 与扩散模型壁画修复项目。
+许嘉俊，西安电子科技大学物理学院电波传播与天线实验班 2023 级本科生，主要研究多模态生成与理解、深伪语音检测，以及模型泛化与可解释性。已保送至清华大学工程物理系攻读博士，师从<a href="https://baike.baidu.com/item/%E5%BC%A0%E4%BF%8A%E6%9D%B0/20141352" target="_blank" rel="noopener noreferrer">张俊杰老师</a>。此前在清华大学<a href="https://www.sigs.tsinghua.edu.cn/zxp1/main.htm" target="_blank" rel="noopener noreferrer">张晓平院士课题组</a>开展深伪语音检测研究，关注检测模型在不同语音生成范式下的泛化能力；以第一作者身份主导 VMM 视频到音乐生成研究，并参与基于扩散模型的人体运动预测项目 HumanMAC++。
 </div>
 </section>
 
@@ -39,6 +39,8 @@ I am currently a research intern in Xiaoping Zhang's group at Tsinghua Universit
 
 <div class="language-block" lang="en" markdown="1">
 <ul class="news-list">
+  <li><span class="news-icon news-icon--honor" aria-hidden="true"><i class="fas fa-award"></i></span><span><strong>October 2026:</strong> Received the National Scholarship for Undergraduate Students (Top 1%).</span></li>
+  <li><span class="news-icon news-icon--paper" aria-hidden="true"><i class="fas fa-file-alt"></i></span><span><strong>September 2026:</strong> Submitted <em>What survives the codec shift: Pooled no-vocals residuals for speech deepfake detection</em> to ICASSP 2027.</span></li>
   <li><span class="news-icon news-icon--award" aria-hidden="true"><i class="fas fa-trophy"></i></span><span><strong>May 2026:</strong> Received an Honorable Mention in the Mathematical Contest in Modeling (MCM).</span></li>
   <li><span class="news-icon news-icon--speech" aria-hidden="true"><i class="fas fa-microphone"></i></span><span><strong>March 2026:</strong> Joined Xiaoping Zhang's group at Tsinghua University to work on deepfake speech detection.</span></li>
   <li><span class="news-icon news-icon--paper" aria-hidden="true"><i class="fas fa-file-alt"></i></span><span><strong>October 2025:</strong> The first-author VMM paper became available online in <em>Computer Vision and Image Understanding</em>.</span></li>
@@ -77,9 +79,9 @@ VMM combines Mamba and Transformer components to model long-range musical struct
 
 <div class="language-block" lang="en" markdown="1">
 ### Deepfake Speech Detection
-**Research Intern, Xiaoping Zhang's Group, Tsinghua University | March 2026 - Present**
+**Research Intern, Xiaoping Zhang's Group, Tsinghua University | March 2026 - September 24, 2026**
 
-I study how deepfake speech detectors generalize across speech-generation paradigms. My current work develops controlled evaluation and representation-diagnostic procedures and explores multi-layer speech representations with Mixture of Experts integration for unseen codec conditions. This research is ongoing.
+I studied how deepfake speech detectors generalize across speech-generation paradigms. The work developed controlled evaluation and representation-diagnostic procedures and explored multi-layer speech representations with Mixture of Experts integration for unseen codec conditions.
 
 ### VMM: Video-Music Mamba
 **First Author | June 2024 - November 2025**
@@ -103,13 +105,20 @@ I led the team through literature study, method design, model reproduction, syst
 
 <div class="language-block" lang="en">
   <div class="education-entry">
+    <img class="education-entry__logo" src="{{ '/images/tsinghua-university-emblem.png' | relative_url }}" alt="" width="512" height="517">
+    <div class="education-entry__content">
+      <h3 class="education-entry__school education-entry__school--tsinghua">Tsinghua University</h3>
+      <p><strong>Incoming Direct Ph.D. Student, Department of Engineering Physics | Expected Enrollment: 2027</strong></p>
+    </div>
+  </div>
+  <div class="education-entry">
     <img class="education-entry__logo" src="{{ '/images/xidian-university-emblem.png' | relative_url }}" alt="" width="256" height="256">
     <div class="education-entry__content">
-      <h3>Xidian University</h3>
+      <h3 class="education-entry__school education-entry__school--xidian">Xidian University</h3>
       <p><strong>B.Sc. Student, Radio Wave Propagation and Antennas Honors Program | 2023 - Expected July 2027</strong></p>
       <ul>
         <li>GPA: <strong>3.84/4.00</strong></li>
-        <li>Rank: <strong>2/33</strong> over the first five semesters</li>
+        <li>Rank: <strong>1/33</strong> (final program ranking)</li>
       </ul>
     </div>
   </div>
@@ -120,6 +129,7 @@ I led the team through literature study, method design, model reproduction, syst
 <h1 id="honors"><i class="fas fa-trophy section-heading-icon" aria-hidden="true"></i><span>Honors and Awards</span></h1>
 
 <div class="language-block" lang="en" markdown="1">
+- **2026** National Scholarship for Undergraduate Students (Top 1%)
 - **2026** Mathematical Contest in Modeling (MCM), Honorable Mention
 - **2024** Interdisciplinary Contest in Modeling (ICM), Honorable Mention
 - **2024** National Scholarship for Undergraduate Students (Top 1%)
@@ -127,4 +137,4 @@ I led the team through literature study, method design, model reproduction, syst
 </div>
 </section>
 
-<p class="last-updated">Last updated: August 2026</p>
+<p class="last-updated">Last updated: October 2026</p>
