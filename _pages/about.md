@@ -64,14 +64,37 @@ I have been admitted to the Ph.D. program in the Department of Engineering Physi
 ### VMM: Video-Music Mamba for Generating Background Music from Videos
 
 **Jiajun Xu**, Zixiang Lu, Ping Gao, Qiguang Miao, Kun Xie<br>
+*Xidian University*<br>
 *Computer Vision and Image Understanding*, **262**, Article 104545, December 2025.
 
 <span class="publication-links"><a href="https://doi.org/10.1016/j.cviu.2025.104545" target="_blank" rel="noopener noreferrer">Paper</a><a href="https://jiajunxiii.github.io/VMM-Video-Music-Mamba/" target="_blank" rel="noopener noreferrer">Project</a><a href="https://github.com/JiajunXIII/video-music-mamba" target="_blank" rel="noopener noreferrer">Code</a></span>
 
-VMM combines Mamba and Transformer components to model long-range musical structure and local interactions, with a Switch Schedule for coordinating video and chord conditioning.
+VMM combines Mamba and Transformer components for video-to-music generation, coordinating video and chord conditioning with a Switch Schedule.
 </div>
   </div>
 </div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <figure class="publication-figure">
+      <span class="publication-badge">arXiv 2026</span>
+      <img src="{{ '/images/mn-p-framework.png' | relative_url }}" alt="Overview of the MN-P dual-view speech deepfake detection framework" width="1036" height="349">
+    </figure>
+  </div>
+  <div class="paper-box-text">
+<div class="language-block" lang="en" markdown="1">
+### What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection
+
+**Jiajun Xu**, Menglu Li, Xiao-Ping Zhang<br>
+*Tsinghua University*<br>
+*arXiv preprint*, arXiv:2609.33375, September 2026.
+
+<span class="publication-links"><a href="https://arxiv.org/pdf/2609.33375" target="_blank" rel="noopener noreferrer">Paper</a></span>
+
+MN-P combines pooled no-vocals residuals with token-level XLS-R features through adaptive gating for codec-unseen speech deepfake detection.
+</div>
+  </div>
+</div>
+
 </section>
 
 <section class="homepage-section" aria-labelledby="research">
